@@ -1,1 +1,3 @@
 # MARISAX
+cd MARISAX
+python3 MARISA.py
